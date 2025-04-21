@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6dd4c2bc2335f7",
+        "id": "fe50406701f42420",
         "type": "tabs",
         "children": [
           {
-            "id": "bc35b8b3acb686ad",
+            "id": "3a1956c37eec46b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Test images path.md",
+                "file": "CTF/T-CTF 2025/Капибратство.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test images path"
+              "title": "Капибратство"
             }
           }
         ]
@@ -180,25 +180,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc35b8b3acb686ad",
+  "active": "3a1956c37eec46b0",
   "lastOpenFiles": [
-    "image.webp",
+    "assets/image-9.webp",
     "CTF/T-CTF 2025/Капибратство.md",
-    "CTF/T-CTF 2025/Test images path.md",
     "assets/Pasted image 20250421234519.png",
-    "assets/Pasted image 20250421233711.png",
+    "assets/image-8.webp",
+    "assets/image-7.webp",
+    "assets/image-6.webp",
+    "assets/image-5.webp",
+    "assets/image-4.webp",
+    "assets/image-3.webp",
+    "assets/image-2.webp",
+    "assets/image-1.webp",
+    "CTF/T-CTF 2025/Test images path.md",
     "assets",
     "Чеклист.md",
     "Kanban.md",
     "Заметки.md",
     "Time Tracker.md",
-    "assets/Pasted image 20250421234338.png",
-    "assets/Pasted image 20250421234328.png",
-    "assets/Pasted image 20250421234317.png",
-    "assets/Pasted image 20250421234304.png",
-    "assets/Pasted image 20250421234244.png",
-    "assets/Pasted image 20250421234231.png",
-    "assets/Pasted image 20250421234219.png",
     "CTF/T-CTF 2025",
     "CTF",
     "MetrikaYandex.md",
@@ -206,7 +206,6 @@
     "gratar-api-doc.json",
     "gratar-api-doc — копия.yaml",
     "2025-02-23.md",
-    "camphoto_1902445306.jpeg",
     "Безымянная Kanban-доска 1.md"
   ]
 }
