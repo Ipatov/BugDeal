@@ -1,0 +1,42 @@
+{
+  "registerYamlJson": false,
+  "resourcesAutoUpdate": false,
+  "OpenAPIPreviewTheme": "light",
+  "OpenAPISourceThemeMode": "dark",
+  "OpenAPISourceLightTheme": "default",
+  "OpenAPISourceDarkTheme": "default",
+  "syncOpenAPIPreviewTheme": true,
+  "syncOpenAPISourceTheme": true,
+  "OpenAPIViewDefaultMode": "preview",
+  "OpenAPIEntryGridLayoutColumns": 4,
+  "extensions": {
+    "folding": {
+      "name": "Folding",
+      "on": true
+    },
+    "linter": {
+      "name": "Linter",
+      "on": true
+    },
+    "lineNumbers": {
+      "name": "Line Numbers",
+      "on": true
+    },
+    "highlightSelectionMatches": {
+      "name": "Highlight Selection Matches",
+      "on": true
+    },
+    "openAPICompletion": {
+      "name": "OpenAPI Completion",
+      "on": true
+    },
+    "linkHighlightExtension": {
+      "name": "Link Highlight Extension",
+      "on": true
+    },
+    "highlightActiveLine": {
+      "name": "Highlight Active Line",
+      "on": true
+    }
+  }
+}
