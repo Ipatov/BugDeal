@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Капибратство.md",
+                "file": "CTF/T-CTF 2025/Test images path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Капибратство"
+              "title": "Test images path"
             }
           }
         ]
@@ -180,10 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9764dcf40c921cb",
+  "active": "bc35b8b3acb686ad",
   "lastOpenFiles": [
-    "assets/Pasted image 20250421234519.png",
+    "image.webp",
     "CTF/T-CTF 2025/Капибратство.md",
+    "CTF/T-CTF 2025/Test images path.md",
+    "assets/Pasted image 20250421234519.png",
     "assets/Pasted image 20250421233711.png",
     "assets",
     "Чеклист.md",
