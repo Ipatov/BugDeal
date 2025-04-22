@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe50406701f42420",
+        "id": "a6d7c3f3afbbda70",
         "type": "tabs",
         "children": [
           {
-            "id": "3a1956c37eec46b0",
+            "id": "8f80592a52518c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Капибратство.md",
+                "file": "CTF/T-CTF 2025/Web – КапиБратство.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Капибратство"
+              "title": "Web – КапиБратство"
             }
           }
         ]
@@ -180,36 +180,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a1956c37eec46b0",
+  "active": "8f80592a52518c06",
   "lastOpenFiles": [
-    "CTF/T-CTF 2025/assets/image-10.webp",
+    "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/add_courses_data.py",
+    "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/__init__.py",
+    "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/6315cbf1af4f_initital.py",
+    "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/5fb714d70134_initial_migration.py",
+    "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/imageUtils.js",
+    "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/formatUtils.js",
+    "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/auth.js",
+    "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/AuthContext.js",
+    "CTF/T-CTF 2025/assets/brethren/frontend/src/pages/Register.js",
+    "CTF/T-CTF 2025/assets/brethren/frontend/src/pages/Login.js",
+    "CTF/T-CTF 2025/assets/brethren/frontend/src/pages/Home.js",
+    "CTF/T-CTF 2025/assets/brethren/frontend/public/images/capybara4.jpg",
+    "CTF/T-CTF 2025/assets/brethren/frontend/public/images/capybara2.jpg",
+    "CTF/T-CTF 2025/assets/brethren/frontend/public/images/capybara3.jpg",
+    "CTF/T-CTF 2025/assets/brethren/frontend/public/images/capybara1.png",
+    "CTF/T-CTF 2025/assets/brethren/frontend/src/logo.svg",
+    "CTF/T-CTF 2025/assets/brethren/frontend/public/logo512.png",
+    "CTF/T-CTF 2025/assets/brethren/frontend/public/logo192.png",
+    "CTF/T-CTF 2025/Web – КапиБургеры.md",
+    "CTF/T-CTF 2025/Web – КапиБратство.md",
+    "Без названия.canvas",
+    "CTF tasks/T-CTF 2025/web – Капибратство.md",
     "CTF/T-CTF 2025/assets/image-9.webp",
     "CTF/T-CTF 2025/assets/image-8.webp",
-    "CTF/T-CTF 2025/assets/image-7.webp",
-    "CTF/T-CTF 2025/assets/image-6.webp",
-    "CTF/T-CTF 2025/assets/image-5.webp",
-    "CTF/T-CTF 2025/assets/image-4.webp",
-    "CTF/T-CTF 2025/assets/image-3.webp",
-    "CTF/T-CTF 2025/assets/image-2.webp",
-    "CTF/T-CTF 2025/assets/image-1.webp",
     "CTF/T-CTF 2025/assets/image.webp",
-    "CTF/T-CTF 2025/assets",
-    "CTF/T-CTF 2025/image",
-    "CTF/T-CTF 2025/Капибратство.md",
-    "CTF/T-CTF 2025/images/image",
-    "CTF/T-CTF 2025/images",
-    "CTF/T-CTF 2025/Test images path.md",
-    "assets",
     "Чеклист.md",
-    "Kanban.md",
     "Заметки.md",
+    "CTF/T-CTF 2025/Test images path.md",
+    "Kanban.md",
     "Time Tracker.md",
-    "CTF/T-CTF 2025",
-    "CTF",
     "MetrikaYandex.md",
-    "gratar-api-doc.yaml",
-    "gratar-api-doc.json",
-    "gratar-api-doc — копия.yaml",
     "2025-02-23.md",
     "Безымянная Kanban-доска 1.md"
   ]
