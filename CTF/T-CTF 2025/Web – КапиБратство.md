@@ -2,7 +2,7 @@
 
 #### Исходники
 
-- Архив с исходниками сайта:  ![brethren.tar.gz](./assets/brethren.tar.gz)
+- Архив с исходниками сайта:  [brethren.tar.gz](./assets/brethren.tar.gz)
 
 #### Решение
 - Через уязвимость в получение файлов достаем .env.dist
