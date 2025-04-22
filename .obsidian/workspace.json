@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Osint – Капибады.md",
+                "file": "CTF/T-CTF 2025/Misc – Капибаннер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Osint – Капибады"
+              "title": "Misc – Капибаннер"
             }
           }
         ]
@@ -182,6 +182,14 @@
   },
   "active": "8f80592a52518c06",
   "lastOpenFiles": [
+    "CTF/T-CTF 2025/Web – КапиБургеры.md",
+    "CTF/T-CTF 2025/Web – КапиБратство.md",
+    "CTF/T-CTF 2025/Osint – Капибады.md",
+    "CTF/T-CTF 2025/Misc – Капибаннер.md",
+    "CTF/T-CTF 2025/assets/image-28.webp",
+    "CTF/T-CTF 2025/assets/image-27.webp",
+    "CTF/T-CTF 2025/assets/image-26.webp",
+    "CTF/T-CTF 2025/assets/kapibanner.mp4",
     "CTF/T-CTF 2025/assets/image-25.webp",
     "CTF/T-CTF 2025/assets/image-24.webp",
     "CTF/T-CTF 2025/assets/image-23.webp",
@@ -189,16 +197,9 @@
     "CTF/T-CTF 2025/assets/image-21.webp",
     "CTF/T-CTF 2025/assets/image-20.webp",
     "CTF/T-CTF 2025/assets/image-19.webp",
-    "CTF/T-CTF 2025/assets/image-18.webp",
-    "CTF/T-CTF 2025/Web – КапиБургеры.md",
-    "CTF/T-CTF 2025/Osint – Капибады.md",
-    "CTF/T-CTF 2025/Web – КапиБратство.md",
     "Инструменты – онлайн.md",
     "Инструменты – приложения.md",
     "CTF/Заготовки скриптов",
-    "CTF/T-CTF 2025/assets/image-17.webp",
-    "CTF/T-CTF 2025/assets/image-16.webp",
-    "CTF/T-CTF 2025/assets/image-15.webp",
     "Чеклист.md",
     "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/add_courses_data.py",
     "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/__init__.py",
@@ -208,7 +209,6 @@
     "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/formatUtils.js",
     "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/auth.js",
     "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/AuthContext.js",
-    "CTF/T-CTF 2025/assets/brethren/frontend/src/pages/Register.js",
     "Без названия.canvas",
     "CTF tasks/T-CTF 2025/web – Капибратство.md",
     "CTF/T-CTF 2025/Test images path.md",
