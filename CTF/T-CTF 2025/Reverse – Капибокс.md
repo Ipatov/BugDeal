@@ -18,42 +18,6 @@
 - В тупую выдираем из сайта кусок логики для отрисовки 2D холста в canvas и переносим на свою статичную html, чтобы запустить и посмотреть, что там рисуется. 
 - В канвасе отрисовывается QR-код из ранее найденной матрицы еденичек и нулей. Сканируем кувыркод и получаем вшитую в него текстовую фразу. Этот текст и есть ключ к получения флага - победа!
 
-#### Код для высчитывания флага
-
-```js
-function reverseBarca(value) {
-	let sequence = [], flagChars = [];
-	while (value > 1) {
-		let remainder = value % 4;
-		switch(remainder) {
-			case 0:
-				sequence.unshift('green'); 
-				flagChars.unshift('G');
-				break;
-			case 1:
-				sequence.unshift('blue'); 
-				flagChars.unshift('B');
-				break;
-			case 2:
-				sequence.unshift('red'); 
-				flagChars.unshift('R');
-				break;
-			case 3:
-				sequence.unshift('yellow'); 
-				flagChars.unshift('Y');
-				break;
-		}
-		value = Math.floor((value - remainder) / 4);
-	}
-	return {sequence, flagChars};
-}
-
-const targetValue = 414363270630243;
-const solution = reverseBarca(targetValue);
-console.log(solution.sequence);
-console.log(`tctf{${solution.flagChars.join('')}}`);
-```
-
 #### Скрины
 
 ![](./assets/image-31.webp)

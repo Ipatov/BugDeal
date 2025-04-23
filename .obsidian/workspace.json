@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Reverse – Капибокс.md",
+                "file": "CTF/T-CTF 2025/Reverse – Капибартер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse – Капибокс"
+              "title": "Reverse – Капибартер"
             }
           }
         ]
@@ -182,27 +182,29 @@
   },
   "active": "7785a2dcaf298e09",
   "lastOpenFiles": [
+    "CTF/T-CTF 2025/assets/image-41.webp",
+    "CTF/T-CTF 2025/assets/image-40.webp",
+    "CTF/T-CTF 2025/assets/image-39.webp",
+    "CTF/T-CTF 2025/assets/image-38.webp",
+    "CTF/T-CTF 2025/assets/image-37.webp",
+    "CTF/T-CTF 2025/assets/capybarter.ipa",
+    "CTF/T-CTF 2025/Reverse – Капибокс.md",
+    "CTF/T-CTF 2025/Reverse – Капибартер.md",
+    "CTF/T-CTF 2025/Reverse – Капибарса.md",
     "CTF/T-CTF 2025/assets/image-36.webp",
     "CTF/T-CTF 2025/assets/image-35.webp",
     "CTF/T-CTF 2025/assets/image-34.webp",
     "CTF/T-CTF 2025/assets/image-33.webp",
     "CTF/T-CTF 2025/assets/image-32.webp",
     "CTF/T-CTF 2025/assets/image-31.webp",
-    "CTF/T-CTF 2025/Reverse – Капибарса.md",
-    "CTF/T-CTF 2025/Reverse – Капибокс.md",
-    "CTF/T-CTF 2025/assets/image-30.webp",
-    "CTF/T-CTF 2025/assets/image-29.webp",
     "CTF/T-CTF 2025/Web – КапиБратство.md",
     "CTF/T-CTF 2025/Web – КапиБургеры.md",
     "CTF/T-CTF 2025/Misc – Капибаннер.md",
     "CTF/T-CTF 2025/Osint – Капибады.md",
-    "CTF/T-CTF 2025/assets/barca.png",
     "Итоги.md",
     "Инструменты – приложения.md",
     "Инструменты – онлайн.md",
     "Чеклист.md",
-    "CTF/T-CTF 2025/assets/image-28.webp",
-    "CTF/T-CTF 2025/assets/image-27.webp",
     "CTF/T-CTF 2025/assets/kapibanner.mp4",
     "CTF/Заготовки скриптов",
     "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/add_courses_data.py",
@@ -212,7 +214,6 @@
     "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/imageUtils.js",
     "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/formatUtils.js",
     "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/auth.js",
-    "CTF/T-CTF 2025/assets/brethren/frontend/src/utils/AuthContext.js",
     "Без названия.canvas",
     "CTF tasks/T-CTF 2025/web – Капибратство.md",
     "CTF/T-CTF 2025/Test images path.md",
