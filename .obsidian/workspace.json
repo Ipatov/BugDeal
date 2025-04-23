@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Forensics – Капиботы, easy.md",
+                "file": "CTF/T-CTF 2025/Web – Капиблеф, easy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forensics – Капиботы, easy"
+              "title": "Web – Капиблеф, easy"
             }
           }
         ]
@@ -182,31 +182,32 @@
   },
   "active": "7785a2dcaf298e09",
   "lastOpenFiles": [
+    "CTF/T-CTF 2025/assets/image-53.webp",
+    "CTF/T-CTF 2025/assets/image-52.webp",
+    "CTF/T-CTF 2025/assets/image-51.webp",
+    "CTF/T-CTF 2025/assets/image-50.webp",
+    "CTF/T-CTF 2025/assets/image-49.webp",
+    "CTF/T-CTF 2025/Web – КапиБургеры, easy.md",
+    "CTF/T-CTF 2025/Web – Капиблеф, easy.md",
+    "CTF/T-CTF 2025/Web – КапиБратство, hard.md",
+    "CTF/T-CTF 2025/Web – Капибаза, easy.md",
+    "CTF/T-CTF 2025/Forensics – Капиботы, easy.md",
     "CTF/T-CTF 2025/assets/image-48.webp",
     "CTF/T-CTF 2025/assets/image-47.webp",
     "CTF/T-CTF 2025/assets/~$tnet_doc.docx",
     "CTF/T-CTF 2025/Misc – Капибьюти, easy.md",
     "CTF/T-CTF 2025/Misc – Капибаннер, easy.md",
-    "CTF/T-CTF 2025/Forensics – Капиботы, easy.md",
     "CTF/T-CTF 2025/Osint – Капибады, easy.md",
     "CTF/T-CTF 2025/Reverse – Капибарса, easy.md",
     "CTF/T-CTF 2025/Reverse – Капибартер, easy.md",
     "CTF/T-CTF 2025/Reverse – Капибокс, easy.md",
-    "CTF/T-CTF 2025/Web – Капибаза, easy.md",
-    "CTF/T-CTF 2025/Web – КапиБратство, hard.md",
-    "CTF/T-CTF 2025/Web – КапиБургеры, easy.md",
     "CTF/T-CTF 2025/assets/botnet_doc.docx",
     "CTF/T-CTF 2025/assets/image-46.webp",
     "CTF/T-CTF 2025/assets/image-45.webp",
     "CTF/T-CTF 2025/assets/image-44.webp",
     "CTF/T-CTF 2025/assets/capbaza_extension.zip",
     "CTF/T-CTF 2025/assets/image-43.webp",
-    "CTF/T-CTF 2025/assets/image-42.webp",
-    "CTF/T-CTF 2025/assets/beauty_flyer.png",
     "Инструменты – приложения.md",
-    "CTF/T-CTF 2025/assets/image-41.webp",
-    "CTF/T-CTF 2025/assets/image-40.webp",
-    "CTF/T-CTF 2025/assets/image-39.webp",
     "CTF/T-CTF 2025/assets/capybarter.ipa",
     "Итоги.md",
     "Инструменты – онлайн.md",
