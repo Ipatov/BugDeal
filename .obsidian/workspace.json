@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a6d7c3f3afbbda70",
+        "id": "7513670121da445f",
         "type": "tabs",
         "children": [
           {
-            "id": "8f80592a52518c06",
+            "id": "799e044e058104ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Misc – Капибаннер.md",
+                "file": "CTF/T-CTF 2025/Reverse – Капибарса.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Misc – Капибаннер"
+              "title": "Reverse – Капибарса"
             }
           }
         ]
@@ -180,12 +180,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f80592a52518c06",
+  "active": "799e044e058104ad",
   "lastOpenFiles": [
-    "CTF/T-CTF 2025/Web – КапиБургеры.md",
+    "CTF/T-CTF 2025/assets/image-30.webp",
+    "CTF/T-CTF 2025/assets/image-29.webp",
     "CTF/T-CTF 2025/Web – КапиБратство.md",
-    "CTF/T-CTF 2025/Osint – Капибады.md",
+    "CTF/T-CTF 2025/Web – КапиБургеры.md",
     "CTF/T-CTF 2025/Misc – Капибаннер.md",
+    "CTF/T-CTF 2025/Osint – Капибады.md",
+    "CTF/T-CTF 2025/Reverse – Капибарса.md",
+    "CTF/T-CTF 2025/assets/barca.png",
+    "Итоги.md",
+    "Инструменты – приложения.md",
+    "Инструменты – онлайн.md",
+    "Чеклист.md",
     "CTF/T-CTF 2025/assets/image-28.webp",
     "CTF/T-CTF 2025/assets/image-27.webp",
     "CTF/T-CTF 2025/assets/image-26.webp",
@@ -195,12 +203,7 @@
     "CTF/T-CTF 2025/assets/image-23.webp",
     "CTF/T-CTF 2025/assets/image-22.webp",
     "CTF/T-CTF 2025/assets/image-21.webp",
-    "CTF/T-CTF 2025/assets/image-20.webp",
-    "CTF/T-CTF 2025/assets/image-19.webp",
-    "Инструменты – онлайн.md",
-    "Инструменты – приложения.md",
     "CTF/Заготовки скриптов",
-    "Чеклист.md",
     "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/add_courses_data.py",
     "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/__init__.py",
     "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/6315cbf1af4f_initital.py",
