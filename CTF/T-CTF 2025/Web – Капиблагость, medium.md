@@ -1,4 +1,4 @@
-#easy #web #finance
+#medium  #web #finance
 
 #### Задача
 
