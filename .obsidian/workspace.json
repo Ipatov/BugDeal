@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Reverse – Капибайкер, medium.md",
+                "file": "CTF/T-CTF 2025/Reverse pwn – Капибарбадос, medium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse – Капибайкер, medium"
+              "title": "Reverse pwn – Капибарбадос, medium"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,17 +182,22 @@
   },
   "active": "7785a2dcaf298e09",
   "lastOpenFiles": [
-    "CTF/T-CTF 2025/assets/image-66.webp",
-    "CTF/T-CTF 2025/assets/image-65.webp",
-    "CTF/T-CTF 2025/assets/image-64.webp",
-    "CTF/T-CTF 2025/assets/image-63.webp",
-    "CTF/T-CTF 2025/assets/image-62.webp",
-    "CTF/T-CTF 2025/assets/image-61.webp",
-    "CTF/T-CTF 2025/assets/image-60.webp",
-    "CTF/T-CTF 2025/assets/image-59.webp",
+    "CTF/T-CTF 2025/assets/flappy-fly.mp4",
+    "CTF/T-CTF 2025/assets/image-76.webp",
+    "CTF/T-CTF 2025/assets/image-75.webp",
+    "CTF/T-CTF 2025/assets/image-74.webp",
+    "CTF/T-CTF 2025/assets/image-73.webp",
+    "CTF/T-CTF 2025/assets/image-72.webp",
+    "CTF/T-CTF 2025/assets/image-71.webp",
+    "CTF/T-CTF 2025/assets/image-70.webp",
+    "CTF/T-CTF 2025/assets/image-69.webp",
+    "CTF/T-CTF 2025/assets/image-68.webp",
+    "CTF/T-CTF 2025/assets/image-67.webp",
+    "CTF/T-CTF 2025/assets/barbados.elf",
+    "CTF/T-CTF 2025/Reverse – Капибайкер, medium.md",
+    "CTF/T-CTF 2025/Reverse pwn – Капибарбадос, medium.md",
     "CTF/T-CTF 2025/assets/bike_track.py",
     "CTF/T-CTF 2025/Reverse – Капибокс, easy.md",
-    "CTF/T-CTF 2025/Reverse – Капибайкер, medium.md",
     "CTF/T-CTF 2025/Reverse – Капибартер, easy.md",
     "CTF/T-CTF 2025/Reverse – Капибарса, easy.md",
     "Инструменты – онлайн.md",
@@ -202,9 +206,6 @@
     "CTF/T-CTF 2025/Misc – Капибаннер, easy.md",
     "CTF/T-CTF 2025/Forensics – Капиботы, easy.md",
     "CTF/T-CTF 2025/Web – Капиблагость, medium.md",
-    "CTF/T-CTF 2025/assets/image-58.webp",
-    "CTF/T-CTF 2025/assets/image-57.webp",
-    "CTF/T-CTF 2025/assets/image-56.webp",
     "CTF/T-CTF 2025/assets/bliss.tar.gz",
     "CTF/T-CTF 2025/Web – Капибаза, easy.md",
     "CTF/T-CTF 2025/Web – Капиблеф, easy.md",
@@ -220,7 +221,6 @@
     "CTF/T-CTF 2025/assets/kapibanner.mp4",
     "CTF/Заготовки скриптов",
     "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/add_courses_data.py",
-    "CTF/T-CTF 2025/assets/brethren/backend/infrastructure/migrations/versions/__init__.py",
     "Без названия.canvas",
     "CTF tasks/T-CTF 2025/web – Капибратство.md",
     "CTF/T-CTF 2025/Test images path.md",
