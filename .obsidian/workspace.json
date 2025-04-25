@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/T-CTF 2025/Web – Капипаркинг, medium.md",
+                "file": "CTF/T-CTF 2025/Reverse – Капибонд, medium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web – Капипаркинг, medium"
+              "title": "Reverse – Капибонд, medium"
             }
           }
         ]
@@ -183,6 +183,14 @@
   },
   "active": "2616a27ca7f17f80",
   "lastOpenFiles": [
+    "CTF/T-CTF 2025/assets/image-90.webp",
+    "CTF/T-CTF 2025/assets/image-89.webp",
+    "CTF/T-CTF 2025/assets/image-88.webp",
+    "CTF/T-CTF 2025/assets/image-87.webp",
+    "CTF/T-CTF 2025/assets/bond_113ee6a.tar",
+    "CTF/T-CTF 2025/Reverse – Капибайкер, medium.md",
+    "CTF/T-CTF 2025/Reverse – Капибонд, medium.md",
+    "CTF/T-CTF 2025/Web – Капипаркинг, medium.md",
     "CTF/T-CTF 2025/assets/image-86.webp",
     "CTF/T-CTF 2025/assets/image-85.webp",
     "CTF/T-CTF 2025/assets/image-84.webp",
@@ -190,9 +198,7 @@
     "CTF/T-CTF 2025/assets/image-82.webp",
     "CTF/T-CTF 2025/assets/image-81.webp",
     "CTF/T-CTF 2025/assets/image-80.webp",
-    "CTF/T-CTF 2025/assets/ticket_2140265.png",
     "CTF/T-CTF 2025/Web – КапиБургеры, easy.md",
-    "CTF/T-CTF 2025/Web – Капипаркинг, medium.md",
     "CTF/T-CTF 2025/Web – Капиблагость, medium.md",
     "CTF/T-CTF 2025/Misc – Капибаннер, easy.md",
     "Index.md",
@@ -207,16 +213,12 @@
     "CTF/T-CTF 2025/Reverse – Капибокс, easy.md",
     "CTF/T-CTF 2025/Reverse – Капибартер, easy.md",
     "CTF/T-CTF 2025/Reverse – Капибарса, easy.md",
-    "CTF/T-CTF 2025/Reverse – Капибайкер, medium.md",
     "CTF/T-CTF 2025/Osint – Капибады, easy.md",
     "CTF/T-CTF 2025/Misc – Капибьюти, easy.md",
     "CTF/T-CTF 2025/Forensics – Капиботы, easy.md",
     "Web – КапиБургеры, [[easy.md",
     "CTF/T-CTF.md",
     "CTF.md",
-    "CTF/T-CTF 2025/assets/image-79.webp",
-    "CTF/T-CTF 2025/assets/image-78.webp",
-    "CTF/T-CTF 2025/assets/image-77.webp",
     "CTF/T-CTF 2025/assets/bucks.tar.gz",
     "CTF/T-CTF 2025/assets/flappy-fly.mp4",
     "CTF/T-CTF 2025/assets/barbados.elf",
@@ -227,8 +229,6 @@
     "CTF/T-CTF 2025/assets/botnet_doc.docx",
     "CTF/T-CTF 2025/assets/capbaza_extension.zip",
     "CTF/T-CTF 2025/assets/capybarter.ipa",
-    "CTF/T-CTF 2025/assets/kapibanner.mp4",
-    "Без названия.canvas",
-    "CTF tasks/T-CTF 2025/web – Капибратство.md"
+    "Без названия.canvas"
   ]
 }
