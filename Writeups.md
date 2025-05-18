@@ -1,11 +1,16 @@
 
-#### От организатров
+#### От организаторов
 
 - 1753с 2025: [github](https://github.com/1753c-ctf/2025-writeups) 
 - CIT 2024: [github](https://github.com/cyber-cit/CTF-CIT-2024/tree/main/writeups)
+- DamCTF 2025: [gitlab](https://gitlab.com/osusec/damctf-2025-challenges/-/tree/main?ref_type=heads)
+- BYUCTF 2024[github](https://github.com/BYU-CSA/BYUCTF-2024-Public/tree/main)
+- BYUCTF 2025 [github](https://github.com/BYU-CSA/BYUCTF-2025)
 
 #### От участников
 - https://github.com/cyberangel0422/CTF-Solve/tree/main/2025-CIT-CTF
 - https://github.com/aqxq/CTF-Writeups/tree/main/CTF%40CIT
 - CIT 2025 вся форенсика: https://medium.com/@ahmedkhalifa8474hh/ctf-cit-dfir-write-ups-494e4fc00f13
 - CIT 2025 веcь web https://ruur.gitbook.io/ctf-writeups/ctf-cit-2025
+- CIT 2025 от команды с 7 места: https://lfgberg.org/2025/04/28/ctfs/CIT-CTF-25/#Malware-Analysis
+- 
