@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups.md",
+                "file": "Инструменты – онлайн.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writeups"
+              "title": "Инструменты – онлайн"
             }
           }
         ]
@@ -184,20 +184,20 @@
   "active": "bebf787630e999bd",
   "lastOpenFiles": [
     "Итоги 2025.md",
-    "Полезные ссылки.md",
+    "Инструменты – онлайн.md",
     "Writeups.md",
+    "Инструменты – приложения.md",
+    "Полезные ссылки.md",
+    "Forensics.md",
+    "Crypto.md",
+    "SQL injection.md",
     "CTF/BYUCTF 2025/Полный разбор.md",
     "CTF/DamCTF 2025/Полный разбор.md",
     "CTF/BYUCTF 2025",
     "CTF/1753CTF/Полный разбор.md",
     "CTF/DamCTF 2025",
-    "Crypto.md",
     "Чеклист.md",
-    "Forensics.md",
-    "SQL injection.md",
     "Index.md",
-    "Инструменты – приложения.md",
-    "Инструменты – онлайн.md",
     "CTF/T-CTF 2025/Osint – Капибады, easy.md",
     "assets/image.webp",
     "assets/image-4.webp",

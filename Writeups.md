@@ -6,6 +6,7 @@
 - DamCTF 2025: [gitlab](https://gitlab.com/osusec/damctf-2025-challenges/-/tree/main?ref_type=heads)
 - BYUCTF 2024[github](https://github.com/BYU-CSA/BYUCTF-2024-Public/tree/main)
 - BYUCTF 2025 [github](https://github.com/BYU-CSA/BYUCTF-2025)
+- N0PSctf 2025 [github](https://github.com/N0PSctf/n0psctf-2025)
 
 #### От участников
 - https://github.com/cyberangel0422/CTF-Solve/tree/main/2025-CIT-CTF
