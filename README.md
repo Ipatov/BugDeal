@@ -1,6 +1,6 @@
+<img src="./assets/bug-fix-900-empty.webp" width="128" height="128">
 
-![|128x128](./assets/bug-fix-900-empty.webp)
-
+   
 Склад махуяра от CTF-команды [БАГодельня](https://ctftime.org/team/380161)
 
 ### Оглавление:
