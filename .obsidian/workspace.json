@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a00cb0a412755265",
+        "id": "5ee36af6fe320a60",
         "type": "tabs",
         "children": [
           {
-            "id": "c56e163212a6baaa",
+            "id": "e9dd139d1d5858ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Ссылки на разборы.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ссылки на разборы"
+              "title": "README"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Ссылки на разборы.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Ссылки на разборы"
+              "title": "Структура README"
             }
           },
           {
@@ -181,53 +181,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c56e163212a6baaa",
+  "active": "e9dd139d1d5858ff",
   "lastOpenFiles": [
-    "Writeups/T-CTF 2025/Crypto – Капаре, hard.md",
-    "Writeups/Ссылки на разборы.md",
-    "assets/image.webp",
-    "Writeups/T-CTF 2025/Forensics – Капиботы, easy.md",
-    "README.md",
+    "Полезные ссылки.md",
+    "Crypto.md",
     "SQL injection.md",
-    "Writeups/DamCTF 2025/Полный разбор.md",
-    "Writeups/BYUCTF 2025/Полный разбор.md",
-    "Writeups/1753CTF/Полный разбор.md",
-    "Writeups/Ссылки.md",
-    "Writeups/T-CTF 2025/Osint – Капибады, easy.md",
-    "Writeups/Заметки.md",
-    "Writeups/Writeups.md",
-    "Writeups/T-CTF 2025/assets/ticket_2140265.png",
-    "Writeups/T-CTF 2025/assets/kapibanner.mp4",
-    "Writeups/T-CTF 2025/assets/image.webp",
-    "Writeups/T-CTF 2025/assets/image-96.webp",
-    "Writeups/T-CTF 2025/assets/image-95.webp",
-    "Writeups/T-CTF 2025/assets/image-94.webp",
-    "Writeups/T-CTF 2025/assets/image-93.webp",
-    "Writeups/T-CTF 2025/assets/image-92.webp",
-    "Writeups/T-CTF 2025/assets/image-91.webp",
-    "Writeups/T-CTF 2025/assets/image-90.webp",
-    "Writeups/T-CTF 2025/assets/capybarter.ipa",
-    "Writeups/T-CTF 2025/assets/capbaza_extension.zip",
-    "Writeups/T-CTF 2025/assets/caparet.tar.gz",
-    "Writeups/T-CTF 2025/assets/bucks.tar.gz",
-    "Writeups/T-CTF 2025/assets/brethren.tar.gz",
-    "Writeups/T-CTF 2025/assets/botnet_doc.docx",
-    "Writeups/T-CTF 2025/assets/bond_113ee6a.tar",
-    "Writeups/T-CTF 2025/assets/bliss.tar.gz",
-    "Writeups/T-CTF 2025/assets/bike_track.py",
-    "Writeups/T-CTF 2025/Web – Капипаркинг, medium.md",
-    "Writeups/T-CTF 2025/Web – Капиблеф, easy.md",
-    "Writeups/T-CTF 2025/Web – Капиблагость, medium.md",
-    "Writeups/T-CTF 2025/Web – Капибаксы, medium.md",
-    "Writeups/T-CTF 2025/Web – Капибаза, easy.md",
-    "Writeups/T-CTF 2025/Web – КапиБургеры, easy.md",
-    "Writeups/T-CTF 2025/Web – КапиБратство, hard.md",
-    "Writeups/T-CTF 2025/Reverse – Капибонд, medium.md",
-    "Writeups/T-CTF 2025/Reverse – Капибокс, easy.md",
-    "Writeups/T-CTF 2025/Reverse – Капибартер, easy.md",
-    "Writeups/T-CTF 2025/Reverse – Капибарса, easy.md",
-    "Writeups/T-CTF 2025/Reverse – Капибайкер, medium.md",
-    "Writeups/T-CTF 2025/Reverse pwn – Капибарбадос, medium.md",
+    "Forensics.md",
+    "README.md",
+    "scripts/README.md",
+    "scripts 1.md",
+    "scripts.md",
+    "scripts/Перемешанные буквы.md",
+    "scripts/Заготовки скриптов/Перемешанные буквы.md",
+    "scripts/Заготовки скриптов",
+    "scripts",
+    "Итоги 2025.md",
+    "writeups/T-CTF 2025/assets/ticket_2140265.png",
+    "writeups/T-CTF 2025/assets/kapibanner.mp4",
+    "writeups/T-CTF 2025/assets/image.webp",
+    "writeups/T-CTF 2025/assets/image-96.webp",
+    "writeups/T-CTF 2025/assets/image-95.webp",
+    "writeups/T-CTF 2025/assets/image-94.webp",
+    "writeups/T-CTF 2025/assets/image-93.webp",
+    "writeups/T-CTF 2025/assets/image-92.webp",
+    "writeups/T-CTF 2025/assets/image-91.webp",
+    "writeups/T-CTF 2025/assets/image-90.webp",
+    "writeups/T-CTF 2025/assets/image-9.webp",
+    "writeups/T-CTF 2025/assets/barbados.elf",
+    "writeups/T-CTF 2025/assets/capybarter.ipa",
+    "writeups/T-CTF 2025/assets/capbaza_extension.zip",
+    "writeups/T-CTF 2025/assets/caparet.tar.gz",
+    "writeups/T-CTF 2025/assets/bucks.tar.gz",
+    "writeups/T-CTF 2025/assets/brethren.tar.gz",
+    "writeups/T-CTF 2025/assets/botnet_doc.docx",
+    "writeups/T-CTF 2025/Web – Капипаркинг, medium.md",
+    "writeups/T-CTF 2025/Web – Капиблеф, easy.md",
+    "writeups/T-CTF 2025/Web – Капиблагость, medium.md",
+    "writeups/T-CTF 2025/Web – Капибаксы, medium.md",
+    "writeups/T-CTF 2025/Web – КапиБургеры, easy.md",
+    "writeups/T-CTF 2025/Web – Капибаза, easy.md",
+    "writeups/T-CTF 2025/Web – КапиБратство, hard.md",
+    "writeups/T-CTF 2025/Reverse – Капибонд, medium.md",
+    "writeups/T-CTF 2025/Reverse – Капибокс, easy.md",
+    "writeups/T-CTF 2025/Reverse – Капибартер, easy.md",
+    "writeups/T-CTF 2025/Reverse – Капибарса, easy.md",
+    "writeups/T-CTF 2025/Reverse – Капибайкер, medium.md",
+    "writeups/T-CTF 2025/Reverse pwn – Капибарбадос, medium.md",
+    "writeups/T-CTF 2025/Osint – Капибады, easy.md",
+    "writeups/T-CTF 2025/Misc – Капибьюти, easy.md",
     "Без названия.canvas"
   ]
 }
