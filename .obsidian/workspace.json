@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee36af6fe320a60",
+        "id": "b3f8f151f606a5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "e9dd139d1d5858ff",
+            "id": "bc1490f19157b5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writeups/Ссылки на разборы.md",
+                "file": "Итоги 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ссылки на разборы"
+              "title": "Итоги 2025"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writeups/Ссылки на разборы.md",
+                "file": "Итоги 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Ссылки на разборы"
+              "title": "Структура Итоги 2025"
             }
           },
           {
@@ -181,9 +181,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e9dd139d1d5858ff",
+  "active": "bc1490f19157b5ae",
   "lastOpenFiles": [
+    "tools/Инструменты – приложения.md",
+    "tools/Инструменты – онлайн.md",
+    "Полезные ссылки.md",
+    "writeups/Ссылки на разборы.md",
+    "Итоги 2025.md",
     "README.md",
+    "scripts/README.md",
     "writeups/T-CTF 2025/assets/ticket_2140265.png",
     "writeups/T-CTF 2025/assets/kapibanner.mp4",
     "writeups/T-CTF 2025/assets/image.webp",
@@ -222,13 +228,7 @@
     "writeups/T-CTF 2025/Misc – Капибаннер, easy.md",
     "writeups/T-CTF 2025/Forensics – Капиботы, easy.md",
     "writeups/T-CTF 2025/Crypto – Капаре, hard.md",
-    "writeups/Ссылки на разборы.md",
     "writeups1/T-CTF 2025/Web – Капипаркинг, medium.md",
-    "writeups1/T-CTF 2025/Web – Капиблеф, easy.md",
-    "writeups1/T-CTF 2025/Web – Капиблагость, medium.md",
-    "writeups1/T-CTF 2025/Web – Капибаксы, medium.md",
-    "writeups1/T-CTF 2025/Web – Капибаза, easy.md",
-    "writeups1/T-CTF 2025/Web – КапиБургеры, easy.md",
     "Без названия.canvas"
   ]
 }
