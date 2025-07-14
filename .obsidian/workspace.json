@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Итоги 2025.md",
+                "file": "checklist/SQL injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Итоги 2025"
+              "title": "SQL injection"
             }
           }
         ]
@@ -183,11 +183,11 @@
   },
   "active": "bc1490f19157b5ae",
   "lastOpenFiles": [
-    "Итоги 2026.md",
-    "Итоги 2025.md",
     "Полезные ссылки.md",
-    "tools/Инструменты – онлайн.md",
     "Полезные ссылки 2.md",
+    "Итоги 2025.md",
+    "Итоги 2026.md",
+    "tools/Инструменты – онлайн.md",
     "scripts/Перемешанные буквы 2.md",
     "writeups/T-CTF 2025/assets/barbados 2.elf",
     "checklist/assets/image-3 2.webp",
