@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checklist/SQL injection.md",
+                "file": "Итоги 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL injection"
+              "title": "Итоги 2025"
             }
           }
         ]
@@ -184,10 +184,13 @@
   "active": "bc1490f19157b5ae",
   "lastOpenFiles": [
     "Полезные ссылки.md",
-    "Полезные ссылки 2.md",
+    "writeups/Ссылки на разборы.md",
     "Итоги 2025.md",
-    "Итоги 2026.md",
     "tools/Инструменты – онлайн.md",
+    "tools/Инструменты – приложения.md",
+    "checklist/SQL injection.md",
+    "Полезные ссылки 2.md",
+    "Итоги 2026.md",
     "scripts/Перемешанные буквы 2.md",
     "writeups/T-CTF 2025/assets/barbados 2.elf",
     "checklist/assets/image-3 2.webp",
@@ -201,8 +204,6 @@
     "writeups/T-CTF 2025/assets/image-93 2.webp",
     "writeups/T-CTF 2025/assets/image-92 2.webp",
     "writeups/T-CTF 2025/assets/image-91 2.webp",
-    "tools/Инструменты – приложения.md",
-    "writeups/Ссылки на разборы.md",
     "README.md",
     "scripts/README.md",
     "writeups/T-CTF 2025/assets/kapibanner.mp4",
@@ -228,7 +229,6 @@
     "writeups/T-CTF 2025/Reverse – Капибайкер, medium.md",
     "writeups/T-CTF 2025/Reverse pwn – Капибарбадос, medium.md",
     "writeups/T-CTF 2025/Osint – Капибады, easy.md",
-    "writeups/T-CTF 2025/Misc – Капибьюти, easy.md",
     "Без названия.canvas"
   ]
 }
